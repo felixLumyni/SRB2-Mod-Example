@@ -3,10 +3,10 @@
 **/*.py
 **/*.pyw
 
-# But don't ignore the ones in the root directory
-!/.SRB2C_ARGS
-!/*.py
-!/*.pyw
+# Except this!
+!/SRB2MC_UPDATER.py
 
 # Also here's this in case you're a mac user xd
 .DS_Store
+
+# Hi
