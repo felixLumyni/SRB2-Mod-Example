@@ -1,0 +1,10 @@
+name = silly
+realname = Silly_Cat
+hudname = SILLY
+prefcolor = Pink
+supercolor = Gold
+ability = CA_NONE
+ability2 = CA2_NONE
+flags = SF_HIRES|SF_NOJUMPSPIN|SF_MARIODAMAGE
+highresscale = 0.5
+jumpfactor = 1.25

@@ -1,0 +1,59 @@
+Character
+SkinName = silly
+DisplayName = Silly#Cat
+TagTextColor = SKINCOLOR_PINK
+TagOutlineColor = SKINCOLOR_WHITE
+OppositeColor = SKINCOLOR_PINK
+PlayerText = this is how you look sayin that stuff.
+
+\8EAbility:^0 Hypnosis
+Double jump to influence everyone around you.
+
+\8EAbility:^0 No spin ability (yet)
+The mod is work in progress!
+
+\8ETip:^0 Hypnotized entities cannot damage you. Use this to your advantage!
+#
+
+Character
+SkinName = jasmin
+DisplayName = Jasmin
+TagTextColor = SKINCOLOR_TAN
+TagOutlineColor = SKINCOLOR_WHITE
+OppositeColor = SKINCOLOR_BROWN
+PlayerText = \85Jasmin^0 With a good handling likes to slash all the enemies.
+
+\85Ability:^0 Still thinking
+Double jump to... nothing yet
+
+\85Ability:^0 Threaten Slash Hypnosis.
+Slash once to Threaten enemies then Slash threaten enemies to kill them.
+
+\85Tip:^0 Threaten entities cannot damage you. Remember this to execute them!
+
+#
+
+Character
+SkinName = silly&jasmin
+PicName = JILLY
+DisplayName = Silly#& Jasmin
+TagTextColor = SKINCOLOR_PINK
+TagOutlineColor = SKINCOLOR_WHITE
+OppositeColor = SKINCOLOR_SKY
+PlayerText = \85Jasmin^0 & \8ESilly^0 can't live together for a reason.
+
+\85Abillity:^0 Hungry...
+
+\8ETip:^0 RUN.
+
+#
+
+Character
+SkinName = car
+PicName = CAR
+DisplayName = Car
+TagTextColor = SKINCOLOR_PINK
+TagOutlineColor = SKINCOLOR_WHITE
+OppositeColor = SKINCOLOR_SKY
+PlayerText = \85Car^0 vrom
+#

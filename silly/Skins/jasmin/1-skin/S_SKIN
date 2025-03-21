@@ -1,0 +1,13 @@
+name = jasmin
+realname = Jasmin
+hudname = JASMIN
+supercolor = Tan
+normalspeed = 30
+accelstart = 30
+thrustfactor = 30
+acceleration = 10
+prefcolor = Tan
+ability = CA_NONE
+ability2 = CA2_NONE
+flags = SF_NOJUMPSPIN|SF_MARIODAMAGE
+jumpfactor = 1.369
